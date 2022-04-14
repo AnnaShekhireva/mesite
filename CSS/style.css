@@ -208,6 +208,7 @@ h2 {
 }
 
 .portfolio-title {
+    padding-top: 15px;
     color: #262e77;
     font-size: 30px;
     font-weight: 800;
@@ -237,4 +238,17 @@ h2 {
     width: 950px;
     border-radius: 20px;
     opacity: 0.8;
+}
+
+.sdvig {
+    margin-bottom: 100px;
+    margin-left: 40px;
+}
+
+.img-portfolio-mt {
+    margin-top: 25px;
+}
+
+.portfolio-title-mt {
+    margin-top: 15px;
 }
